@@ -1,79 +1,79 @@
 [
-  {"address":"Alcoa Wagerup","racks":2,"spaces":4,"lon":115.916844,"lat":-32.915645}
-  {"address":"Alinta Pinjarra","racks":2,"spaces":4,"lon":115.946894,"lat":-32.647303}
-  {"address":"Alinta Pinjarra","racks":2,"spaces":4,"lon":115.946894,"lat":-32.647303}
-  {"address":"Alinta Wagerup","racks":2,"spaces":4,"lon":115.917982,"lat":-32.915933}
-  {"address":"Alinta Wagerup","racks":2,"spaces":4,"lon":115.917982,"lat":-32.915933}
-  {"address":"Alinta Walkaway Wind Farm","racks":2,"spaces":4,"lon":114.928159,"lat":-28.922851}
-  {"address":"Badgingarra Wind Farm","racks":2,"spaces":4,"lon":115.327038,"lat":-30.402233}
-  {"address":"Yandin Wind Farm","racks":2,"spaces":4,"lon":115.642396,"lat":-30.76894}
-  {"address":"Warradarge Wind Farm","racks":2,"spaces":4,"lon":115.470109,"lat":-29.942807}
-  {"address":"Blair Fox Beros Road Wind Farm","racks":2,"spaces":4,"lon":115.363138,"lat":-29.958415}
-  {"address":"Blair Fox Karakin Wind Farm","racks":2,"spaces":4,"lon":115.464503,"lat":-31.006415}
-  {"address":"Blair Fox West Hills Wind Farm","racks":2,"spaces":4,"lon":115.392233,"lat":-30.868691}
-  {"address":"Bluewaters","racks":2,"spaces":4,"lon":116.229,"lat":-33.331}
-  {"address":"Bluewaters","racks":2,"spaces":4,"lon":116.229,"lat":-33.331}
-  {"address":"Collgar Wind Farm","racks":2,"spaces":4,"lon":118.456476,"lat":-31.541867}
-  {"address":"Richgro Biogas","racks":2,"spaces":4,"lon":115.895999,"lat":-32.103631}
-  {"address":"Denmark Community Wind Farm","racks":2,"spaces":4,"lon":117.320095,"lat":-35.036268}
-  {"address":"Emu Downs Wind Farm","racks":2,"spaces":4,"lon":115.376709,"lat":-30.488254}
-  {"address":"Parkeston","racks":2,"spaces":4,"lon":121.506543,"lat":-30.73781}
-  {"address":"Kalamunda Landfill Gas","racks":2,"spaces":4,"lon":115.998801,"lat":-31.97677}
-  {"address":"Red Hill Landfill Gas","racks":2,"spaces":4,"lon":116.102167,"lat":-31.834319}
-  {"address":"Tamala Park Landfill Gas","racks":2,"spaces":4,"lon":115.726566,"lat":-31.707764}
-  {"address":"Merredin","racks":2,"spaces":4,"lon":118.226998,"lat":-31.542314}
-  {"address":"Merredin Solar Farm","racks":2,"spaces":4,"lon":118.22774,"lat":-31.545187}
-  {"address":"Ambrisolar PV","racks":2,"spaces":4,"lon":118.273748,"lat":-31.540246}
-  {"address":"Mt Barker Community Wind Farm","racks":2,"spaces":4,"lon":117.643486,"lat":-34.598172}
-  {"address":"Mumbida Wind Farm","racks":2,"spaces":4,"lon":114.959888,"lat":-28.991805}
-  {"address":"NewGen Neerabup OCGT","racks":2,"spaces":4,"lon":115.802149,"lat":-31.67125}
-  {"address":"NewGen Kwinana CCGT","racks":2,"spaces":4,"lon":115.772821,"lat":-32.20198}
-  {"address":"Northam Solar Project Partnership","racks":2,"spaces":4,"lon":116.70995,"lat":-31.651553}
-  {"address":"Rockingham Landfill Gas","racks":2,"spaces":4,"lon":115.815281,"lat":-32.286414}
-  {"address":"South Cardup Landfill Gas","racks":2,"spaces":4,"lon":116.019283,"lat":-32.266402}
-  {"address":"Albany Wind Farm","racks":2,"spaces":4,"lon":117.797695,"lat":-35.064147}
-  {"address":"Grasmere Wind Farm","racks":2,"spaces":4,"lon":117.763761,"lat":-35.050651}
-  {"address":"Greenough River Solar Farm","racks":2,"spaces":4,"lon":115.111937,"lat":-28.904318}
-  {"address":"Southern Cross","racks":2,"spaces":4,"lon":121.674285,"lat":-31.191325}
-  {"address":"Bremer Bay Wind Turbine","racks":2,"spaces":4,"lon":119.391481,"lat":-34.399}
-  {"address":"Cockburn","racks":2,"spaces":4,"lon":115.773679,"lat":-32.200119}
-  {"address":"Collie","racks":2,"spaces":4,"lon":116.261165,"lat":-33.342181}
-  {"address":"Kalbarri Wind Farm","racks":2,"spaces":4,"lon":114.194552,"lat":-27.899499}
-  {"address":"Kemerton","racks":2,"spaces":4,"lon":115.78054,"lat":-33.16325}
-  {"address":"Kemerton","racks":2,"spaces":4,"lon":115.78054,"lat":-33.16325}
-  {"address":"Kwinana HE Gas Turbine","racks":2,"spaces":4,"lon":115.775386,"lat":-32.197295}
-  {"address":"Kwinana HE Gas Turbine","racks":2,"spaces":4,"lon":115.775386,"lat":-32.197295}
-  {"address":"Muja C","racks":2,"spaces":4,"lon":116.306012,"lat":-33.445811}
-  {"address":"Muja C","racks":2,"spaces":4,"lon":116.306012,"lat":-33.445811}
-  {"address":"Muja D","racks":2,"spaces":4,"lon":116.307213,"lat":-33.44616}
-  {"address":"Muja D","racks":2,"spaces":4,"lon":116.307213,"lat":-33.44616}
-  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322}
-  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681}
-  {"address":"Perth Power Partnership Kwinana","racks":2,"spaces":4,"lon":115.766121,"lat":-32.222532}
-  {"address":"West Kalgoorlie","racks":2,"spaces":4,"lon":121.423355,"lat":-30.780635}
-  {"address":"West Kalgoorlie","racks":2,"spaces":4,"lon":121.423355,"lat":-30.780635}
-  {"address":"Tesla Picton","racks":2,"spaces":4,"lon":115.721099,"lat":-33.356621}
-  {"address":"Tesla Geraldton","racks":2,"spaces":4,"lon":114.691854,"lat":-28.790967}
-  {"address":"Tesla Kemerton","racks":2,"spaces":4,"lon":115.760613,"lat":-33.211798}
-  {"address":"Tesla Northam","racks":2,"spaces":4,"lon":116.847372,"lat":-31.643106}
-  {"address":"Tiwest Cogeneration","racks":2,"spaces":4,"lon":115.773472,"lat":-32.227541}
-  {"address":"Henderson Landfill Gas","racks":2,"spaces":4,"lon":115.8008,"lat":-32.164988}
-  {"address":"WA Biomass Power Plant (lon: 116.108766)","racks":2,"spaces":4,"lon":,"lat":-34.332846}
-  {"address":"Perth Energy Kwinana","racks":2,"spaces":4,"lon":115.778277,"lat":-32.224258}
-  {"address":"Kwinana Power Station (Gas Turbine)","racks":2,"spaces":4,"lon":115.775946,"lat":-32.197003}
-  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322}
-  {"address":"Muja A Power Station","racks":2,"spaces":4,"lon":116.308109,"lat":-33.446671}
-  {"address":"Muja A Power Station","racks":2,"spaces":4,"lon":116.308109,"lat":-33.446671}
-  {"address":"Muja B Power Station","racks":2,"spaces":4,"lon":116.30872,"lat":-33.446807}
-  {"address":"Muja B Power Station","racks":2,"spaces":4,"lon":116.30872,"lat":-33.446807}
-  {"address":"Worsley Alumina Co-Gen","racks":2,"spaces":4,"lon":116.063738,"lat":-33.236546}
+  {"address":"Alcoa Wagerup","racks":2,"spaces":4,"lon":115.916844,"lat":-32.915645},
+  {"address":"Alinta Pinjarra","racks":2,"spaces":4,"lon":115.946894,"lat":-32.647303},
+  {"address":"Alinta Pinjarra","racks":2,"spaces":4,"lon":115.946894,"lat":-32.647303},
+  {"address":"Alinta Wagerup","racks":2,"spaces":4,"lon":115.917982,"lat":-32.915933},
+  {"address":"Alinta Wagerup","racks":2,"spaces":4,"lon":115.917982,"lat":-32.915933},
+  {"address":"Alinta Walkaway Wind Farm","racks":2,"spaces":4,"lon":114.928159,"lat":-28.922851},
+  {"address":"Badgingarra Wind Farm","racks":2,"spaces":4,"lon":115.327038,"lat":-30.402233},
+  {"address":"Yandin Wind Farm","racks":2,"spaces":4,"lon":115.642396,"lat":-30.76894},
+  {"address":"Warradarge Wind Farm","racks":2,"spaces":4,"lon":115.470109,"lat":-29.942807},
+  {"address":"Blair Fox Beros Road Wind Farm","racks":2,"spaces":4,"lon":115.363138,"lat":-29.958415},
+  {"address":"Blair Fox Karakin Wind Farm","racks":2,"spaces":4,"lon":115.464503,"lat":-31.006415},
+  {"address":"Blair Fox West Hills Wind Farm","racks":2,"spaces":4,"lon":115.392233,"lat":-30.868691},
+  {"address":"Bluewaters","racks":2,"spaces":4,"lon":116.229,"lat":-33.331},
+  {"address":"Bluewaters","racks":2,"spaces":4,"lon":116.229,"lat":-33.331},
+  {"address":"Collgar Wind Farm","racks":2,"spaces":4,"lon":118.456476,"lat":-31.541867},
+  {"address":"Richgro Biogas","racks":2,"spaces":4,"lon":115.895999,"lat":-32.103631},
+  {"address":"Denmark Community Wind Farm","racks":2,"spaces":4,"lon":117.320095,"lat":-35.036268},
+  {"address":"Emu Downs Wind Farm","racks":2,"spaces":4,"lon":115.376709,"lat":-30.488254},
+  {"address":"Parkeston","racks":2,"spaces":4,"lon":121.506543,"lat":-30.73781},
+  {"address":"Kalamunda Landfill Gas","racks":2,"spaces":4,"lon":115.998801,"lat":-31.97677},
+  {"address":"Red Hill Landfill Gas","racks":2,"spaces":4,"lon":116.102167,"lat":-31.834319},
+  {"address":"Tamala Park Landfill Gas","racks":2,"spaces":4,"lon":115.726566,"lat":-31.707764},
+  {"address":"Merredin","racks":2,"spaces":4,"lon":118.226998,"lat":-31.542314},
+  {"address":"Merredin Solar Farm","racks":2,"spaces":4,"lon":118.22774,"lat":-31.545187},
+  {"address":"Ambrisolar PV","racks":2,"spaces":4,"lon":118.273748,"lat":-31.540246},
+  {"address":"Mt Barker Community Wind Farm","racks":2,"spaces":4,"lon":117.643486,"lat":-34.598172},
+  {"address":"Mumbida Wind Farm","racks":2,"spaces":4,"lon":114.959888,"lat":-28.991805},
+  {"address":"NewGen Neerabup OCGT","racks":2,"spaces":4,"lon":115.802149,"lat":-31.67125},
+  {"address":"NewGen Kwinana CCGT","racks":2,"spaces":4,"lon":115.772821,"lat":-32.20198},
+  {"address":"Northam Solar Project Partnership","racks":2,"spaces":4,"lon":116.70995,"lat":-31.651553},
+  {"address":"Rockingham Landfill Gas","racks":2,"spaces":4,"lon":115.815281,"lat":-32.286414},
+  {"address":"South Cardup Landfill Gas","racks":2,"spaces":4,"lon":116.019283,"lat":-32.266402},
+  {"address":"Albany Wind Farm","racks":2,"spaces":4,"lon":117.797695,"lat":-35.064147},
+  {"address":"Grasmere Wind Farm","racks":2,"spaces":4,"lon":117.763761,"lat":-35.050651},
+  {"address":"Greenough River Solar Farm","racks":2,"spaces":4,"lon":115.111937,"lat":-28.904318},
+  {"address":"Southern Cross","racks":2,"spaces":4,"lon":121.674285,"lat":-31.191325},
+  {"address":"Bremer Bay Wind Turbine","racks":2,"spaces":4,"lon":119.391481,"lat":-34.399},
+  {"address":"Cockburn","racks":2,"spaces":4,"lon":115.773679,"lat":-32.200119},
+  {"address":"Collie","racks":2,"spaces":4,"lon":116.261165,"lat":-33.342181},
+  {"address":"Kalbarri Wind Farm","racks":2,"spaces":4,"lon":114.194552,"lat":-27.899499},
+  {"address":"Kemerton","racks":2,"spaces":4,"lon":115.78054,"lat":-33.16325},
+  {"address":"Kemerton","racks":2,"spaces":4,"lon":115.78054,"lat":-33.16325},
+  {"address":"Kwinana HE Gas Turbine","racks":2,"spaces":4,"lon":115.775386,"lat":-32.197295},
+  {"address":"Kwinana HE Gas Turbine","racks":2,"spaces":4,"lon":115.775386,"lat":-32.197295},
+  {"address":"Muja C","racks":2,"spaces":4,"lon":116.306012,"lat":-33.445811},
+  {"address":"Muja C","racks":2,"spaces":4,"lon":116.306012,"lat":-33.445811},
+  {"address":"Muja D","racks":2,"spaces":4,"lon":116.307213,"lat":-33.44616},
+  {"address":"Muja D","racks":2,"spaces":4,"lon":116.307213,"lat":-33.44616},
+  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322},
+  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Pinjar ABCD","racks":2,"spaces":4,"lon":115.820411,"lat":-31.557681},
+  {"address":"Perth Power Partnership Kwinana","racks":2,"spaces":4,"lon":115.766121,"lat":-32.222532},
+  {"address":"West Kalgoorlie","racks":2,"spaces":4,"lon":121.423355,"lat":-30.780635},
+  {"address":"West Kalgoorlie","racks":2,"spaces":4,"lon":121.423355,"lat":-30.780635},
+  {"address":"Tesla Picton","racks":2,"spaces":4,"lon":115.721099,"lat":-33.356621},
+  {"address":"Tesla Geraldton","racks":2,"spaces":4,"lon":114.691854,"lat":-28.790967},
+  {"address":"Tesla Kemerton","racks":2,"spaces":4,"lon":115.760613,"lat":-33.211798},
+  {"address":"Tesla Northam","racks":2,"spaces":4,"lon":116.847372,"lat":-31.643106},
+  {"address":"Tiwest Cogeneration","racks":2,"spaces":4,"lon":115.773472,"lat":-32.227541},
+  {"address":"Henderson Landfill Gas","racks":2,"spaces":4,"lon":115.8008,"lat":-32.164988},
+  {"address":"WA Biomass Power Plant","racks":2,"spaces":4,"lon":116.108766,"lat":-34.332846},
+  {"address":"Perth Energy Kwinana","racks":2,"spaces":4,"lon":115.778277,"lat":-32.224258},
+  {"address":"Kwinana Power Station (Gas Turbine)","racks":2,"spaces":4,"lon":115.775946,"lat":-32.197003},
+  {"address":"Mungarra","racks":2,"spaces":4,"lon":115.117938,"lat":-28.889322},
+  {"address":"Muja A Power Station","racks":2,"spaces":4,"lon":116.308109,"lat":-33.446671},
+  {"address":"Muja A Power Station","racks":2,"spaces":4,"lon":116.308109,"lat":-33.446671},
+  {"address":"Muja B Power Station","racks":2,"spaces":4,"lon":116.30872,"lat":-33.446807},
+  {"address":"Muja B Power Station","racks":2,"spaces":4,"lon":116.30872,"lat":-33.446807},
+  {"address":"Worsley Alumina Co-Gen","racks":2,"spaces":4,"lon":116.063738,"lat":-33.236546},
   ]
