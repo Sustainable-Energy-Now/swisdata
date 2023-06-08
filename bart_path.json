@@ -1,7 +1,7 @@
 [
     {
       "name": "Richmond - Millbrae",
-      "color": [0, 0, 0, 200],
+      "color": [255, 0, 0, 200],
       "path": [
         [
           -122.3535851,
@@ -99,7 +99,7 @@
     },
     {
       "name": "Fremont - Richmond",
-      "color": [0, 0, 200, 0],
+      "color": [0, 255, 0, 100],
       "path": [
         [
           -122.353165,
@@ -177,7 +177,7 @@
     },
     {
       "name": "Pittsburg/Bay Point - SFO",
-      "color": [200, 0, 0, 0],
+      "color": [0, 0, 255, 50],
       "path": [
         [
           -121.945154,
@@ -287,7 +287,7 @@
     },
     {
       "name": "Dublin/Pleasanton - Daly City",
-      "color": [0, 0, 0, 100],
+      "color": [125, 125, 0, 100],
       "path": [
         [
           -121.900367,
@@ -365,7 +365,7 @@
     },
     {
       "name": "Fremont - Daly City",
-      "color": [0, 0, 100, 0],
+      "color": [0, 125, 100, 80],
       "path": [
         [
           -121.9764,
